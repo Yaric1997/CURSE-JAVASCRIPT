@@ -1,4 +1,2 @@
 "use strict";
-
-const  result = confirm('Are you here?');
-console.log(result);
+const numberOfFilms = +prompt('Сколько фильмов ви уже посмотрели?', '');
